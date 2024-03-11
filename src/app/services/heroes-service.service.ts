@@ -15,11 +15,10 @@ export class HeroesServiceService {
       casa: 'DC',
       id: 1,
       listImg: [
-        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Y5ipzczRNv7q5zIQz6czVKW1cy90Z19bew&usqp=CAU',
-        'https://as2.ftcdn.com/v2/jpg/05/03/12/09/1000_F_503120952_07eHA8WFUNynIn6jFcqwtEm3sR0D6nuf.jpg',
-        'https://m.media-amazon.com/images/M/MV5BYzdkMWUzZDYtZTUyOS00NjFiLWIwNWEtMjNiZTVjZTQ4NjY3XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_.jpg',
-        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJMhz0gGF2PwFCvjmfqCmc8hBozRd9HPduw&usqp=CAU',
-        'https://www.alfabetajuega.com/abj_public_files/Alfabetajuega-Aquaman-Manta.jpg',
+        'https://www.shutterstock.com/shutterstock/photos/1312477580/display_1500/stock-photo-bangkok-thailand-february-the-setting-of-aquaman-action-figure-with-the-ancient-ruin-1312477580.jpg',
+        'https://www.shutterstock.com/shutterstock/photos/1312646912/display_1500/stock-photo-bangkok-thailand-february-the-setting-of-aquaman-action-figure-with-the-ancient-ruin-1312646912.jpg',
+        'https://www.shutterstock.com/shutterstock/photos/1312477577/display_1500/stock-photo-bangkok-thailand-february-the-setting-of-aquaman-action-figure-with-the-ancient-ruin-1312477577.jpg',
+        'https://www.shutterstock.com/shutterstock/photos/1312018985/display_1500/stock-photo-bangkok-thailand-february-the-setting-of-aquaman-action-figure-with-the-ancient-ruin-1312018985.jpg',
       ],
     },
     {
@@ -33,7 +32,7 @@ export class HeroesServiceService {
         'https://sm.ign.com/t/ign_za/editorial/t/the-top-25/the-top-25-best-batman-comics-and-graphic-novels_7scd.1200.jpg',
         'https://www.slashfilm.com/img/gallery/the-15-best-batman-comics-you-need-to-read/intro-1660174737.jpg',
         'https://m.media-amazon.com/images/S/pv-target-images/492e1c722f1fd5a98df41a6cc4e9042002a0196092a9bf950c3dbe586e160d7d._SX1080_FMjpg_.jpg',
-        'https://www.tvguide.com/a/img/catalog/provider/1/1/1-386186498.jpg',
+        'https://www.shutterstock.com/shutterstock/photos/1177784380/display_1500/stock-photo-bangkok-thailand-september-a-batman-action-figure-from-famous-dc-comic-1177784380.jpg',
       ],
     },
     {
@@ -45,7 +44,7 @@ export class HeroesServiceService {
       id: 3,
       listImg: [
         'https://cdn.marvel.com/u/prod/marvel/i/mg/d/50/50febb79985ee/standard_incredible.jpg',
-        'https://static.wikia.nocookie.net/vsbattles/images/4/4c/ClassicDaredevilRender.png/revision/latest?cb=20220104200825',
+        'https://www.shutterstock.com/shutterstock/photos/1158637177/display_1500/stock-photo-taipei-taiwan-june-close-up-of-daredevil-figures-on-display-shelf-in-ximending-1158637177.jpg',
         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sT_20spNitThiNU7ERhQnR73y0kU9a1HVQ&usqp=CAU',
         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XhODS0DkpXrtdFD02YjhYpit3e1odBXcLA&usqp=CAU',
       ],

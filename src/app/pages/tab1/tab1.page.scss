@@ -1,0 +1,43 @@
+// tab1.page.scss
+
+ion-header {
+    ion-toolbar {
+      ion-title {
+        font-size: 1.5em; // Tamaño de la fuente del título
+      }
+  
+      ion-buttons {
+        ion-back-button {
+          // Personaliza el estilo del botón de retroceso si es necesario
+        }
+      }
+    }
+  }
+  
+  ion-content {
+    // Agrega estilos generales para el contenido si es necesario
+  }
+  
+  app-heroes {
+    // Estilos específicos para el componente app-heroes
+    ion-item {
+      ion-avatar {
+        img {
+          width: 50px; // Tamaño de la imagen del avatar
+          height: 50px;
+          border-radius: 50%; // Borde redondeado para la imagen del avatar
+        }
+      }
+  
+      ion-label {
+        font-weight: bold; // Texto del héroe en negrita
+      }
+  
+      ion-button {
+        margin-top: 10px; // Espaciado superior para los botones
+      }
+    }
+  }
+  
+  // Otros estilos específicos según sea necesario
+  
